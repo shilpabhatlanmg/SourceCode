@@ -1,0 +1,569 @@
+@media (min-width:1700px){
+    .main_home:before {border-bottom: 180px solid #f5f5f5; border-right: 960px solid transparent;}
+    .main_home:after {border-bottom: 180px solid #f5f5f5; border-left: 960px solid transparent;}
+}
+
+@media (max-width:1199px){
+
+   
+    .culmn .navbar-nav > li:nth-child(6) > a{font-size:13px; margin-top:0; padding: 10px 20px;}
+  .privacy-bx{margin-top:0;}
+  .p-policy .inner-cl.main_home:after {border-bottom: 80px solid #fff;}
+  .p-policy .inner-cl.main_home:before {border-bottom: 80px solid #ffffff;}
+  .inner-head.p-policy {height: 300px!important; padding-top: 140px!important;}
+    .culmn .navbar-nav > li:last-child > a{font-size:13px; margin-top:0; padding:10px 20px;}
+    .membership_bx .bx.active .full-bx{transform: translatey(0px);}
+    .work{ height: 500px; padding-top:212px;}
+    .home{padding-top:170px;}
+    .nxt{margin-top:20px;}
+    .next2{margin-top:20px;}
+    .bk{margin-top:20px;}
+    .membership_bx .bx.active .full-bx{padding: 30px 25px;}
+    .membership_bx .bx .full-bx{ padding: 25px 25px;}
+    .membership_bx .bx ul li{font-size:15px; padding-left:25px; margin-bottom:7px;}
+    .signup .container {padding: 0px 90px;}
+    .culmn .navbar-nav > li > a{ padding: 13px 10px;  font-size: 13px; }
+
+    .navbar-brand > img{width:200px;}
+    .no-background .navbar-brand {padding: 11px 15px 57px;}
+    .culmn .no-background .navbar-nav > li > a {margin-top: 14px;}
+    #home .banner-left{padding-left: 20px;}
+    .main_home .home_text h2{ font-size: 46px;}
+    .main_home .home_text h1{font-size:34px;}
+    .main_home .home_text p{font-size:18px;}
+    #home .banner-right img {width: 220px;}
+    .m-top-20{margin-top:0;}
+    .main_features .heading{font-size:46px;}
+    .features_bx{margin-top:45px;}
+    .roomy-70{padding-bottom:45px;}
+    .about_bx .left .heading{font-size:46px;}
+    .app_screen .heading{font-size:46px;}
+    .roomy-80 {padding-top: 80px; padding-bottom: 65px;}
+    .main_dialogue h2{padding: 0 1%;}
+    .head_title h2{font-size:46px;}
+    .business {padding: 90px 0 90px 0;}
+    .business_item h2{font-size:46px; line-height:50px; }
+    .business .main_business .left{width:380px;}
+
+
+    .app_screen{padding-bottom:70px;}
+    .personnel-app .left .heading{ font-size: 46px;}
+    .personnel-app{padding:90px 0;}
+    .pd-ph {padding-left: 25px;}
+    .inner-head { height: 500px!important; padding-top: 212px;}
+    .inner-nav.no-background .navbar-brand { padding: 11px 15px 57px;}
+    .inner-nav .navbar-brand {padding: 21px 15px;}
+    .culmn .inner-nav .navbar-nav > li > a { margin-top: 26px;}
+    .signup .heading{font-size:36px;}
+    .signup{padding: 45px 0 45px 0;}
+    .thankyou_bx .hd{font-size:60px;}
+    .thankyou_bx .txt{font-size:15px;}
+    .price_bx{margin-top:10px;}
+
+
+
+}
+
+
+
+/* Portrait tablets and medium desktops */
+@media (min-width: 992px) and (max-width: 1199px) {
+    body {
+        font-size: 1rem;
+    }
+
+
+
+
+}
+
+
+
+/* Portrait tablets and small desktops */
+/*@media (max-width: 992px) {
+
+}*/
+
+
+/* Portrait tablets and small desktops */
+@media (max-width: 991px) {
+    .culmn .inner-nav.no-background .navbar-nav > li:last-child > a{border-top:0!important;}
+    .culmn .inner-nav .navbar-nav > li:last-child > a{color:#6f6f6f!important;}
+    .culmn .no-background .navbar-nav > li:nth-child(6) > a {
+    
+        color: #6f6f6f!important;
+}
+    .culmn .navbar-nav > li:nth-child(6)> a{
+        background: transparent!important;
+    border-radius: 0;
+    margin-left: 0;
+    border: 0;
+    text-transform: capitalize;
+    }
+    .btgrid .content {padding-right: 0;}
+    .tk-size {width: 160px;}
+    h2.populat-head{font-size:24px; line-height: 32px;}
+    .tk-head {padding-bottom: 0!important; padding-top: 75px!important;}
+    .back_to_home a{margin-top:20px;}
+    .price_bx{font-size:14px;}
+    .price_bx strong{font-size:50px;}
+    .thankyou_bx .txt {font-size: 14px; margin: 10px 0 5px 0;}
+    .thankyou_bx .hd {font-size: 48px;}
+    .thankyou_bx .image img { width: 70px;}
+    .main_home .home_text h1 {font-size: 34px; margin-top: 15px;}
+    .fq .roomy-70{padding:0 0 50px 0!important;}
+    .inner-cl.main_home:before {border-bottom: 110px solid #e0e0e0;}
+    .inner-cl.main_home:after {border-bottom: 110px solid #e0e0e0;}
+    .signup { padding: 0px 0 45px 0;}
+    .sz-ft{width:170px;}
+    .sz-grp { width: 240px;}
+    .sz-quote { width: 110px;}
+    nav.navbar.bootsnav.navbar-fixed{padding-top:0;}
+    .sz-bn {width: 230px;}
+    .fq .m-top-70 {margin-top: 30px!important;}
+    .roomy-70{padding-top:20px; padding-bottom:20px; }
+    .main_home .home_text h2 { margin-top: 0px; font-size: 35px;}
+    .features_item.fq-mb-txt .f_item_text{width:100%;}
+    .work{height:400px; padding-top:180px;}
+    .features_item.fq-mb-txt .f_item_text h3{font-size:18px;}
+    .fq-mb-txt {margin-top: 20px;}
+    .slick-slider .item img{ transform: scale(1);}
+    .sgn_up_form .hd.mr-tp{margin-top:15px;}
+    .payment_bx .panel-right .mn_bx .hd{font-size:18px;}
+    .payment_bx{padding: 50px 60px;}
+    .membership_bx .bx .price_txt2 span small {font-size: 20px;}
+    .membership_bx .bx .price_txt2 span{font-size:26px;}
+    .membership_bx .bx .price_txt2{ margin: 10px 0 10px 0;}
+    .selt_txt{font-size:13px; padding: 10px 42px; }
+    .membership_bx .bx .price_txt{font-size:26px; margin: 10px 0 10px 0; }
+    .membership_bx .bx .image{width:60px; height:60px;}
+    .membership_bx .bx .image img { max-height: 36px; width: auto;}
+    .membership_bx .bx .head{font-size:20px;}
+    .membership_bx .bx.active .full-bx {padding: 15px 10px;}
+    .membership_bx .bx ul li:before{font-size:12px;}
+    .membership_bx .bx ul li{font-size:13px; margin-bottom:0;}
+    .membership_bx .bx .full-bx { padding: 15px 10px;}
+    .sgn_up_form .hd{font-size:18px; }
+    .sgn_up_form{margin-top:60px; padding: 30px;}
+    .signup .heading { font-size: 28px;}
+    .inner-head {height: 365px!important; padding-top: 164px!important; padding-bottom: 0!important;}
+    .inner-nav.no-background .navbar-brand{padding:5px 15px;}
+    .inner-nav .navbar-brand{padding:5px 15px;}
+    .signup .container {padding: 0px 45px;}
+    .bg-mega{padding:20px 0 ;}
+    .m-top-80 { margin-top: 40px;}
+    .p-top-80{padding-top:55px;}
+    .widget_newsletter .btn{padding: 0.65rem 0.2rem;}
+    .widget_newsletter .form-control{width:75%;}
+    .pd-ph{padding-left:15px;}
+    .widget_ab_item .widget_ab_item_text p{font-size:13px;}
+    .widget_ab_item .item_icon{margin-right:5px;}
+    .social-icons ul li a{margin: 0 5px;}
+    .widget_brand .gen_txt{font-size:13px; line-height:18px; }
+    .widget_brand a{font-size:20px;}
+    .m-top-30{margin-top:15px;}
+    .sign_up_txt{margin-top:15px;}
+    .business_item .bx1 .fl{padding-left:30px; margin-top:5px; }
+    .sign_up_txt a{font-size:13px;}
+    .send-message{font-size:13px;}
+    .personnel-app { padding: 70px 0;}
+    .personnel-app .left p{font-size:15px;}
+    .personnel-app .left .heading { font-size: 36px;}
+    .app_screen {padding-bottom: 50px;}
+    .frm-inner{width:80%;}
+    .business { padding: 90px 0 65px 0;}
+    .business_item .bx1 .second { background-size: contain; width: 200px;}
+    .business_item .bx1 .first { background-size: contain; width: 200px;}
+    .business_item .bx1 .first:hover{background-size: contain; width: 200px;}
+    .business_item .bx1 .second:hover{background-size: contain; width: 200px;}
+    .business_item p{font-size:15px;}
+    .business_item h2{font-size:36px; line-height: 40px;}
+
+    .business .main_business .left{width:300px;}
+    .main_test .test_item .test_text .test-content{font-size:15px; line-height:26px; }
+    .test{padding: 50px 0;}
+    .head_title p{font-size:15px; margin:0; }
+    .head_title h2{font-size:36px;}
+    .main_dialogue h2{font-size:18px; line-height:32px; }
+    .roomy-80{padding-top:40px; padding-bottom:40px; }
+    .app_screen{text-align:center;}
+    .app-slider { margin-top: 60px; width: 75%; float: none; display: inline-block;}
+    .app_screen .txt{font-size:15px; line-height:22px;}
+    .app_screen .txt p{line-height:22px;}
+    .app_screen .heading {font-size: 36px;}
+    .about_bx {padding: 25px 0 80px 0;}
+    .about_bx .left .heading{margin-top:80px;}
+    .about_bx .left p{font-size:15px; line-height:22px; }
+    .about_bx .left .heading {font-size: 36px;}
+    .features_item .f_item_text p{font-size:15px;}
+    .features_item .f_item_text{width: calc(100% - 65px)}
+    .features_item .f_item_icon.four{background-size:45%;}
+    .features_item .f_item_icon.three{background-size:45%;}
+    .features_item .f_item_icon.two{background-size:45%;}
+    .features_item .f_item_icon.one{background-size:45%; }
+    .features_item:hover .f_item_icon.four{background-size:45%;}
+    .features_item:hover .f_item_icon.three{background-size:45%;}
+    .features_item:hover .f_item_icon.two{background-size:45%;}
+    .features_item:hover .f_item_icon.one{background-size:45%;}
+    .features_item .f_item_icon{width:55px; height:55px; margin-right:10px;}
+    .features_bx { margin-top: 5px;}
+
+    .main_features .gen_txt{font-size:15px; margin-bottom:40px;}
+    .main_features .heading { font-size: 36px;}
+    #home .banner-right{top:45%;}
+    .home {padding-top: 140px; padding-bottom: 200px;}
+    .home_btns .btn.btn-default{font-size:13px;}
+    .home_btns .btn.btn-primary{font-size:13px;}
+    .m-top-40 {margin-top: 25px;}
+
+    .culmn .no-background .navbar-nav > li:last-child > a:hover{border:0!important; border-top: solid 1px #e0e0e0!important; color: #0cb9e7!important;}
+    .culmn .no-background .navbar-nav > li:last-child > a{border:0; border-top: solid 1px #e0e0e0!important;}
+    nav.navbar.bootsnav ul.nav li.active > a:hover{color:#0cb9e7;}
+    nav.navbar.bootsnav ul.nav li a:hover{color:#0cb9e7;}
+    .culmn .no-background .navbar-nav > li:last-child > a{     color: #6f6f6f!important; background: transparent!important;}
+    .culmn .navbar-nav > li:last-child > a {background: transparent!important; border-radius: 0; margin-left: 0;     border: 0;
+    text-transform: capitalize;}
+    .culmn .no-background .navbar-nav > li > a{margin-top:0;}
+    .culmn .navbar-nav > li > a{margin-top:0;}
+    nav.navbar.bootsnav ul.nav li.active > a{color: #6f6f6f;}
+    nav.navbar.bootsnav ul.nav > li > a{ color: #6f6f6f;}
+    .no-background .navbar-brand{padding: 5px 15px;}
+    .navbar-fixed .logo{display:none;}
+    .navbar-fixed .logo2{display:block;}
+    nav.navbar.bootsnav.navbar-fixed{background:#fff;}
+    .sm-text-center{
+        text-align: center !important;
+    }
+    .sm-pull-none{
+        float: none !important;
+    }
+    .sm-m-top-10{
+        margin-top:10px;
+    }
+    .sm-m-top-20{
+        margin-top:20px;
+    }
+    .sm-m-top-30{
+        margin-top:0;
+        margin-bottom: 35px;
+    }
+    .sm-m-top-40{
+        margin-top:40px;
+    }
+    .sm-m-top-50{
+        margin-top:50px;
+    }
+    .item_img i{
+        right:0%;
+    }
+
+
+    .navbar-brand {
+        padding: 5px 15px;
+    }
+
+
+
+}
+
+
+
+/* Landscape phones and portrait tablets */
+@media  (max-width: 768px) {
+    .main_home .home_text p{text-align:left; padding-left:10px;}
+    h2{
+        font-size:2rem;
+    }
+    p{
+        font-size:90%;
+        line-height: 2rem;
+    }
+    .xs-pull-none{
+        float: none !important;
+    }
+    .xs-text-center{
+        text-align: center !important;
+    }
+    .xs-m-top-10{
+        margin-top:10px;
+    }
+
+    .xs-m-top-40{
+        margin-top:40px;
+    }
+    .xs-m-top-50{
+        margin-top:50px;
+    }
+    .xs-m-bottom-10{
+        margin-bottom:10px;
+    }
+    .xs-m-bottom-20{
+        margin-bottom:20px;
+    }
+
+
+
+    .main_product .carousel-control{
+        display: none;
+    }
+
+}
+@media  (max-width: 767px) {
+  .p-policy .inner-cl.main_home:before {border-bottom: 60px solid #ffffff;}
+  .p-policy .inner-cl.main_home:after {border-bottom: 60px solid #fff;}
+  .inner-head.p-policy { height: 240px!important; padding-top: 112px!important;}
+    span.payment-error2{font-size:11px;}
+    span.payment-error{font-size:11px;}
+    .thankyou_txt{font-size:26px; line-height:24px; }
+    .tk-size {width: 135px;}
+    h2.populat-head {font-size: 16px; line-height: 24px;}
+    .thankyou_bx{padding:35px;}
+    .mr_txt { margin: -5px 0 0 0!important;}
+    .thankyou_bx .image img { width: 60px;}
+    .back_to_home a{font-size:13px; padding: 12px 28px; }
+    .price_bx {font-size: 13px;}
+    .price_bx strong {font-size: 35px;}
+    .thankyou_bx .txt {font-size: 13px; margin: 0px 0 0px 0;}
+    .thankyou_bx .hd { font-size: 34px; margin:0;}
+    .membership_bx .slick-prev {left: -20px!important;}
+    .membership_bx  .slick-next{right: -20px!important;}
+    .main_home .home_text p{text-align:center; padding-left:0;  font-size: 14px; margin-top: 10px; }
+    .fq .roomy-70 {padding: 0 0 25px 0!important;}
+    .fq-size {width: 100px;}
+    .fq .features_item.fq-mb-txt .f_item_text h3 {font-size: 16px; line-height: 24px;}
+    .fq .m-top-70 {margin-top: 10px!important;}
+    .home{padding-bottom:140px;}
+    .main_home:after{border-bottom: 80px solid #f5f5f5;}
+    .main_home:before{ border-bottom: 80px solid #f5f5f5;}
+    .sz-ft { width: 150px;}
+    .sz-grp2 {width: 90px;}
+    .sz-grp {width: 190px;}
+    .sz-quote { width: 90px;}
+    .sz-bn {width: 160px;}
+    .inner-head {height: 290px!important; padding-top: 125px!important;}
+    .f_txt {font-size: 18px!important;}
+    .features {padding-bottom: 20px;}
+    .fq-mb-txt {margin-top: 10px;}
+    .work{ height: 290px; padding-top: 125px;}
+    .select-mania-inner{height:45px;}
+    .select-mania-value-text{font-size:13px!important;   padding: 2px 0;}
+    .payment_frm .form-control{font-size:13px;  height: 45px;}
+    .payment_frm .vld_txt{font-size:13px;}
+    .payment_bx .panel-right{width: calc(100% - 125px);}
+    .payment_bx .panel-left{width:125px;}
+    .tabs-left>li.active>a, .tabs-left>li.active>a:hover, .tabs-left>li.active>a:focus{border-left: 3px solid #0cb9e7!important;}
+    .nav-tabs.tabs-left > li > a { font-size: 13px; border-left: 3px solid #fafafa;}
+    .payment_bx .panel-right .mn_bx .hd {font-size: 17px;}
+    .payment_bx {padding: 35px 20px;}
+    .select-mania-inner{min-height:45px;}
+    .sgn_up_form .inner .pd-right{padding-left:0;}
+    .sgn_up_form .inner .pd-left{padding-right:0;}
+    .sgn_up_form .inner .form-control{font-size:13px; height: 45px;}
+    .sgn_up_form .hd {font-size: 16px;}
+    .nxt { padding: 10px 35px; margin-top: 10px; font-size: 13px;}
+    .information_tab{margin-top:20px;}
+    .signup .heading {font-size: 24px;}
+    .signup { padding: 0 0 30px 0;}
+    .main_home .home_text h2 {font-size: 28px; margin-bottom: 5px; line-height: 26px;}
+    .main_home .home_text h1 { font-size: 22px; line-height: 22px; margin-bottom: 5px;}
+    .main_home .home_text h3{font-size:14px; margin-top: 10px; }
+    .home_btns .btn.btn-primary{ padding: 10px 18px;}
+    .home_btns .btn.btn-default{padding: 10px 31px;}
+    .m-top-40{margin-top:20px;}
+    .home_btns .btn{margin-left:5px;}
+    #home .banner-right { top: 50%;}
+    #home .banner-right img { width: 140px;}
+    .main_features .heading{font-size:28px; margin-bottom:0; }
+    .main_features .gen_txt { font-size: 13px; margin-bottom: 20px;}
+    .roomy-70{padding-top:10px; padding-bottom: 10px; }
+    .features_item .f_item_text h2 {font-size: 18px; margin-bottom: 0;}
+    .features_item .f_item_text p {font-size: 13px;}
+    .sm-m-top-30{margin-bottom:10px;}
+    .about_bx{ padding: 0px 0 45px 0;}
+    .about_bx .left .heading{font-size:28px; margin-top:15px; text-align: center; }
+    .about_bx .left p {font-size: 13px; padding-right: 15px; margin: 10px 0 0px; text-align:center; }
+    .about_bx .right{text-align: center; padding-top: 25px;}
+    .about_bx .right img { width: 55%;}
+    .app_screen .heading { font-size: 28px;}
+    .app_screen .txt{font-size:13px;}
+    .app-slider{margin-top:50px; width:213px;}
+    .mobileScreen{width:213px; height:427px; }
+    .slick-slider .slick-current img{width:190px;}
+    .slick-prev, .slick-next{top:42%!important;}
+    .slick-slider {  height: 427px;}
+    .membership_bx .slick-slider {  height: auto;}
+    .app_screen{padding-bottom:30px;}
+    .main_dialogue h2 {font-size: 15px; line-height: 28px; margin-bottom:0;}
+    .roomy-80 {padding-top: 20px; padding-bottom: 20px;}
+    .head_title h2 { font-size: 28px; margin-bottom: 0;}
+    .head_title p{font-size:13px;}
+    .test { padding: 40px 0;}
+    .head_title{padding-bottom: 1.143rem;}
+    .main_test .test_item .test_text .test-content {font-size: 13px; line-height: 22px;}
+    .main_test .test_item .test_text .cl-name{font-size:18px;}
+    #testslid .carousel-indicators{margin-top:25px;}
+    .business {padding: 50px 0 30px 0;}
+    .business .main_business .right{width:100%;}
+    .business .main_business .right { padding-left: 15px; padding-right: 15px;}
+    .business_item h2 { font-size: 28px; line-height: 26px;}
+    .business .main_business .left{display:none;}
+    .business_item p {font-size: 13px; line-height: 22px; width:100%; display: block;
+    float: left; padding-right: 10px;}
+    .design-mob { width: 250px;  float: left; margin-top: 10px; display:none;}
+    .business_item ul li{font-size:13px; line-height:22px; }
+    .business_item li i{font-size:11px;}
+    .business_item .bx1 .first{width:175px;  height: 42px;}
+    .business_item .bx1 .second{width:175px; height: 42px;}
+    .business_item .bx1 .first:hover{width:175px;}
+    .business_item .bx1 .second:hover{width:175px;}
+    .business_item .bx1{margin-top:15px;}
+    .frm_outer{margin-top:25px;}
+    .frm-inner .form-control{font-size:13px; height:45px;}
+    .frm-inner .form-group { margin-bottom: 20px;}
+    .pd-2{ padding-left: 15px;}
+    .pd-1 { padding-right: 15px;}
+    .send-message{padding: 14px 35px;}
+    .personnel-app { padding: 40px 0;}
+    .personnel-app .left .heading { font-size: 28px;}
+    .personnel-app .left p {  font-size: 13px; line-height: 22px;}
+    .sign_up_txt a{padding: 14px 35px;}
+    .sign_up_txt { margin-top: 5px;}
+    .business_item .bx1 .fl{padding-left:10px; margin-top:10px;}
+    .mr-foot-mb { margin-bottom: 30px;}
+    .widget_ab_item .item_icon { margin-right: 0px;}
+    .p-top-80 {padding-top: 40px;}
+    .m-top-80 { margin-top: 0px;}
+    .bg-mega { padding: 15px 0;}
+    .widget_ab_item .widget_ab_item_text p{line-height:22px; padding-right: 45%;}
+    .bg-mega p {font-size: 13px; line-height: 22px;}
+    .slick-prev {left: -65px!important;}
+    .slick-next { right: -65px!important;}
+    .information_tab .inner .txt{font-size:13px;}
+    .information_tab .inner .cir {font-size: 13px;}
+    .select-mania-group-text, .select-mania-item-text{font-size:13px;}
+    .membership_bx .bx ul{margin-left:15px;}
+    .membership_bx .bx ul li{padding-right:25px; line-height: 22px; margin-bottom: 3px;}
+    .membership_bx .bx .price_txt{font-size:22px;}
+    .membership_bx .bx .price_txt2 span {font-size: 22px;}
+    .membership_bx .bx .price_txt2 span small { font-size: 18px;}
+    .membership_bx .bx .price_txt2 {font-size:13px;}
+    .membership_bx .bx {margin-bottom: 20px;}
+    .bk{margin-top:10px; font-size:13px; padding:10px 35px; }
+    .next2{margin-top:10px; font-size:13px; padding:10px 35px;}
+    .sgn_up_form .hd.mr-tp {margin-top: 5px;}
+    .main_test .test_item .test_text em{font-size:15px;}
+    .maine_action h2 { font-size: 1.5rem;}
+    .inner-cl.main_home:before { border-bottom: 80px solid #e0e0e0;}
+    .inner-cl.main_home:after {border-bottom: 80px solid #e0e0e0;}
+
+}
+
+@media  (max-width: 600px) {
+    .payment_frm .pd-left{width:100%; padding-right:0; }
+    .payment_frm .pd-right{width:100%; padding-left:0;}
+    .thankyou_bx .hd{font-size:28px;}
+    .thankyou_bx .image img {width: 45px;}
+    .main_home .home_text p{font-size:13px;}
+    #testslid{min-height:330px;}
+    .inner-head {height: 270px!important; padding-top: 130px!important;}
+    .features_item.fq-mb-txt .f_item_text h3 { font-size: 16px; line-height:18px;}
+    .f_txt{font-size: 18px!important;}
+    .work {height: 270px; padding-top: 130px;}
+    .main_home .home_text h2 {font-size: 18px; line-height: 16px;}
+    .main_home .home_text h1 {font-size: 18px; line-height: 16px; margin-top: 5px;}
+    .main_home .home_text h3 { font-size: 13px; margin-top: 2px;}
+    .home_btns .btn.btn-primary{font-size:12px; padding: 10px 15px;}
+    .home_btns .btn.btn-default {font-size: 12px; padding: 10px 26px;}
+    #home .banner-right img { width: 120px;}
+    .m-top-40 { margin-top: 10px;}
+    .main_test .test_item .test_text .test-content:before{ font-size: 26px; left: -34px; }
+    .main_test .test_item .test_text .test-content:after{font-size: 26px; right: -34px;}
+    .main_test .test_item .test_text .cl-name{font-size:16px; margin:5px 0; }
+    #testslid .carousel-indicators li{width:12px; height:12px; }
+    #testslid .carousel-indicators .active{width:12px; height:12px;}
+    .design-mob{width:180px;}
+    .business_item p{width:100%; margin-top: 10px; }
+    .business_item ul { width: calc(100% - 180px); padding-left: 15px; margin-top: 15px;}
+    .personnel-app .left { width: 100%;}
+    .personnel-app .right {width: 100%;}
+    .business_item .bx1 .fl {width: auto; padding-left: 0;}
+    .widget_ab_item .widget_ab_item_text p { font-size: 12px; padding-right: 32%;}
+    .widget_brand .gen_txt{font-size:12px;}
+    .bg-mega p{font-size:12px;}
+    .mb-mar{margin-left:-20px;}
+    .signup .heading {font-size: 20px;}
+    .membership_bx .bx ul{min-height:150px;}
+    .bk{margin-left:5px;}
+    .next2{margin-right:5px;}
+    .main_home:after{border-bottom: 50px solid #f5f5f5;}
+    .main_home:before{ border-bottom: 50px solid #f5f5f5;}
+    .home {padding-bottom: 100px;}
+    .inner-cl.main_home:before {border-bottom: 50px solid #e0e0e0;}
+    .inner-cl.main_home:after { border-bottom: 50px solid #e0e0e0;}
+    .fq .roomy-70 {padding: 0 0 15px 0!important;}
+
+}
+
+@media  (max-width: 479px) {  
+    .widget_ab_item .widget_ab_item_text p{padding-right:0;}
+    .thankyou_txt {font-size: 20px; line-height: 15px;}
+    .tk-size {width: 100px;}
+    h2.populat-head {font-size: 14px; line-height: 22px;}
+    .thankyou_bx{width:90%;}
+    .widget_ab_item .widget_ab_item_text{width:90%;}
+    .widget_ab_item .item_icon{width:5%;}
+    .sz-grp {width: 160px;}
+    .sz-bn {width: 130px;}
+    .main_home .home_text h1{font-size:15px; margin-top:5px; }
+    .main_home .home_text h3 { font-size: 12px; margin-top: 2px; line-height: 18px; padding-right: 20px;}
+    .main_home .home_text h2 { font-size: 16px; margin-top:5px; margin-bottom: 0;}
+    .home_btns .btn.btn-primary { font-size: 10px; padding: 8px 10px;}
+    .home_btns .btn.btn-default { font-size: 10px; padding: 8px 10px;}
+    #home .banner-right img { width: 95px;}
+    .main_features .heading{font-size:22px;}
+    .main_features .gen_txt{padding: 0 6%; margin-bottom: 10px;}
+    .features_item .f_item_text h2{font-size:17px;}
+    .about_bx .left .heading{font-size:22px;}
+    .app_screen .heading { font-size: 22px;}
+    .app_screen .txt{padding: 0 6%;}
+    .main_dialogue h2{font-size:14px; line-height:24px; }
+    .head_title h2{font-size:22px;}
+    .main_test .test_item .test_text .cl-name{font-size:15px;}
+    .business_item h2{font-size:22px;}
+    .business_item ul { width: 100%;}
+    .design-mob{display:none;}
+    .business_item ul{margin-top:0; padding-left:0; }
+    .business_item .bx1 .first{width:150px;}
+    .business_item .bx1 .second{width:150px;}
+    .business_item .bx1 .first:hover{width:150px;}
+    .business_item .bx1 .second:hover{width:150px;}
+    .frm-inner { width: 100%;}
+    .personnel-app .left .heading{font-size:22px;}
+    .sign_up_txt a{font-size:12px;}
+    .send-message{font-size:12px;}
+    .mr-foot-mb { width: 100%;}
+    .mb-mar { margin-left: 0;}
+    .p-top-80 { padding-top: 35px;}
+    .mr-foot-mb {margin-bottom: 18px;}
+    .signup .container {padding: 0px 40px;}
+    .sgn_up_form {margin-top: 55px; padding: 20px;}
+    .membership_bx .bx {width: 100%; margin-bottom: 15px;}
+    .membership_bx .bx ul {min-height: inherit;}
+    .membership_bx .bx.active .full-bx { padding: 15px 10px; transform: translatey(0px);}
+    .bk{margin-top:5px;}
+    .next2{margin-top:5px;}
+    .payment_bx .panel-right{width:100%; padding-left: 0;}
+    .payment_bx .panel-left{width:100%;}
+    .tabs-left>li { width: 46%; float: left; margin-right: 7%;}
+    .tabs-left>li:last-child {margin-right: 0;}
+    .nav-tabs.tabs-left > li > a{font-size:12px;}
+    .payment_bx { padding: 30px 20px 15px 20px;}
+    .mr-bk {margin-top: 10px;}
+    .inner-head { height: 230px!important; padding-top: 115px!important;}
+    .work {height: 236px; padding-top: 115px;}
+
+
+
+
+
+}

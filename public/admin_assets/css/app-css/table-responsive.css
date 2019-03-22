@@ -1,0 +1,16 @@
+/*--- table responsive -----*/
+@media screen and (max-width:767px) {
+  .table-section{max-width:100%;}
+  .table-section table{border:0px solid #eaeaea;}
+  .table-section table td{-moz-border-bottom-colors: none;-moz-border-left-colors: none;-moz-border-right-colors: none;
+  -moz-border-top-colors: none;border-color: -moz-use-text-color -moz-use-text-color #EEEEEE;
+  border-image: none;padding-left:40% !important;position: relative;text-align: left;white-space: normal;
+  line-height: normal; border:0px; font-size:14px; padding-top:15px; padding-bottom:8px;}
+  .table-section table tr{margin-bottom:20px; border:1px solid #eaeaea; }
+  .table-section table tr.no-bodr{border:0px;}
+  .table-section table thead tr{left: -9999px;  position: absolute;  top: -9999px;}
+  .table-section table, .table-section td, .table-section tr, .table-section tbody, .table-section thead{display: block !important}
+  .table-section td:before {left: 10px; padding-right: 12px; position: absolute; text-align: left;  top: 17px; white-space: nowrap; width: 45%;}
+  .table-section tbody td:before{content: attr(data-title);}
+  .table-section td{width:auto !important; padding-right:0% !important;}
+}
